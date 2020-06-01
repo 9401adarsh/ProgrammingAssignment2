@@ -1,14 +1,14 @@
-## Put comments here that give an overall description of what your
+## Writing a function that returns the inverse of a matrix, using cache
 ## functions do
 
-## Write a short comment describing this function
+## Function to make a cache matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## Function to solve for the inverse of a cache matrix
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
